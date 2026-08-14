@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="110" viewBox="0 0 920 110" role="img" aria-label="blynk operating loop">
+  <defs>
+    <linearGradient id="chip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#fff5f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="920" height="110" rx="18" fill="#fffaf8" stroke="#efe4df"/>
+  <g font-family="DM Sans, ui-sans-serif, system-ui, sans-serif">
+    <g transform="translate(24,24)">
+      <rect width="140" height="62" rx="14" fill="url(#chip)" stroke="#f0d8d0"/>
+      <text x="70" y="28" text-anchor="middle" font-size="13" font-weight="600" fill="#c52a3d">Intent</text>
+      <text x="70" y="48" text-anchor="middle" font-size="12" fill="#5c4f4f">Project chat</text>
+    </g>
+    <path d="M172 55h28" stroke="#fed43d" stroke-width="3" stroke-linecap="round"/>
+    <path d="M192 48l8 7-8 7" fill="none" stroke="#fed43d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(208,24)">
+      <rect width="140" height="62" rx="14" fill="url(#chip)" stroke="#f0d8d0"/>
+      <text x="70" y="28" text-anchor="middle" font-size="13" font-weight="600" fill="#c52a3d">Plan</text>
+      <text x="70" y="48" text-anchor="middle" font-size="12" fill="#5c4f4f">validated steps</text>
+    </g>
+    <path d="M356 55h28" stroke="#fed43d" stroke-width="3" stroke-linecap="round"/>
+    <path d="M376 48l8 7-8 7" fill="none" stroke="#fed43d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(392,24)">
+      <rect width="140" height="62" rx="14" fill="url(#chip)" stroke="#f0d8d0"/>
+      <text x="70" y="28" text-anchor="middle" font-size="13" font-weight="600" fill="#c52a3d">Approve</text>
+      <text x="70" y="48" text-anchor="middle" font-size="12" fill="#5c4f4f">human in loop</text>
+    </g>
+    <path d="M540 55h28" stroke="#fed43d" stroke-width="3" stroke-linecap="round"/>
+    <path d="M560 48l8 7-8 7" fill="none" stroke="#fed43d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(576,24)">
+      <rect width="140" height="62" rx="14" fill="url(#chip)" stroke="#f0d8d0"/>
+      <text x="70" y="28" text-anchor="middle" font-size="13" font-weight="600" fill="#c52a3d">Run</text>
+      <text x="70" y="48" text-anchor="middle" font-size="12" fill="#5c4f4f">Temporal</text>
+    </g>
+    <path d="M724 55h28" stroke="#fed43d" stroke-width="3" stroke-linecap="round"/>
+    <path d="M744 48l8 7-8 7" fill="none" stroke="#fed43d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(760,24)">
+      <rect width="140" height="62" rx="14" fill="#c52a3d"/>
+      <text x="70" y="28" text-anchor="middle" font-size="13" font-weight="600" fill="#fffaf8">Govern</text>
+      <text x="70" y="48" text-anchor="middle" font-size="12" fill="#fefea5">Iceberg lake</text>
+    </g>
+  </g>
+</svg>

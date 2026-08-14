@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="88" viewBox="0 0 720 88" role="img" aria-label="blynk color palette">
+  <rect width="720" height="88" rx="16" fill="#fffaf8" stroke="#efe4df"/>
+  <g font-family="DM Sans, ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#5c4f4f">
+    <rect x="20" y="18" width="52" height="52" rx="12" fill="#c52a3d"/>
+    <text x="84" y="40">Crimson</text>
+    <text x="84" y="58" fill="#8a7777">#c52a3d</text>
+    <rect x="190" y="18" width="52" height="52" rx="12" fill="#ff5d4c"/>
+    <text x="254" y="40">Coral</text>
+    <text x="254" y="58" fill="#8a7777">#ff5d4c</text>
+    <rect x="360" y="18" width="52" height="52" rx="12" fill="#fed43d"/>
+    <text x="424" y="40">Golden</text>
+    <text x="424" y="58" fill="#8a7777">#fed43d</text>
+    <rect x="530" y="18" width="52" height="52" rx="12" fill="#fefea5" stroke="#e8e4a8"/>
+    <text x="594" y="40">Accent</text>
+    <text x="594" y="58" fill="#8a7777">#fefea5</text>
+  </g>
+</svg>
